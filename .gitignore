@@ -162,6 +162,7 @@ dmypy.json
 .classpath
 .project
 .settings
+.attach*
 
 .vscode/*
 # !.vscode/settings.json
